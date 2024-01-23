@@ -1,26 +1,25 @@
 
 
 # Daten planen
-## Zwischenüberschrift 1
 
-details>
+<details>
   <summary><h3>Was sind Forschungsdaten?<h3></summary>
 
 Die DFG definiert [Forschungsdaten](https://www.dfg.de/download/pdf/foerderung/grundlagen_dfg_foerderung/forschungsdaten/leitlinien_forschungsdaten.pdf) folgendermaßen:
-„Zu Forschungsdaten zählen u. a. Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten, Objekte aus Sammlungen oder Proben, die in der wissenschaftlichen Arbeit entstehen, entwickelt oder ausgewertet werden. Methodische Testverfahren, wie Fragebögen, Software und Simulationen können ebenfalls zentrale Ergebnisse wissenschaftlicher Forschung darstellen und sollten daher ebenfalls unter den Begriff Forschungsdaten gefasst werden.“ 
+„Zu Forschungsdaten zählen u. a. Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten, Objekte aus Sammlungen oder Proben, die in der wissenschaftlichen Arbeit entstehen, entwickelt oder ausgewertet werden. Methodische Testverfahren, wie Fragebögen, Software und Simulationen können ebenfalls zentrale Ergebnisse wissenschaftlicher Forschung darstellen und sollten daher ebenfalls unter den Begriff Forschungsdaten gefasst werden.“
 
 </details>
 
 
-details>
+<details>
   <summary><h3>Was ist Forschungsdatenmanagement (FDM)?<h3></summary>
 
-[Forschungsdatenmanagement](https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement/) (FDM) umfasst die Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten mit dem gemeinsamen Ziel, diese langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten. Dazu können an allen Punkten des Datenlebenszyklus strukturierte Maßnahmen ergriffen werden, die geeignet sind, die wissenschaftliche Aussagekraft von Forschungsdaten zu erhalten, deren Zugänglichkeit durch Dritte für Auswertung und Analyse zu bewahren und die Nachweiskette zu sichern. 
+[Forschungsdatenmanagement](https://forschungsdaten.info/themen/informieren-und-planen/was-ist-forschungsdatenmanagement/) (FDM) umfasst die Prozesse der Transformation, Selektion und Speicherung von Forschungsdaten mit dem gemeinsamen Ziel, diese langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten. Dazu können an allen Punkten des Datenlebenszyklus strukturierte Maßnahmen ergriffen werden, die geeignet sind, die wissenschaftliche Aussagekraft von Forschungsdaten zu erhalten, deren Zugänglichkeit durch Dritte für Auswertung und Analyse zu bewahren und die Nachweiskette zu sichern.
 
 </details>
 
 
-details>
+<details>
   <summary><h3>Welche Anforderungen haben Drittmittelgeber in Bezug auf den Umgang mit Forschungsdaten?<h3></summary>
 
 Die Anforderungen der Fördergeber sind heterogen und unterscheiden sich teils auch zwischen Förderprogrammen. Eine erste Übersicht finden Sie im [Open Science Magazin](https://open-science-future.zbw.eu/was-forschungsfoerderer-in-forschungsdatenmanagement-fordern/).
@@ -30,7 +29,7 @@ Zudem existiert eine Checkliste der DFG: <https://www.dfg.de/download/pdf/foerde
 </details>
 
 
-details>
+<details>
   <summary><h3>Definiert meine Fachdisziplin Vorgaben zum Umgang mit Forschungsdaten?<h3></summary>
 
 Insbesondere in den Geo-, Lebens-, und Sozialwissenschaften gibt es zahlreiche Policies zum Umgang mit Forschungsdaten. Auf [forschungsdaten.org](https://www.forschungsdaten.org/index.php/Data_Policies#Disziplin%C3%A4re_Policies) finden Sie eine Liste der disziplinären Policies.
@@ -39,19 +38,19 @@ Auf der [Webseite der DFG](https://www.dfg.de/foerderung/grundlagen_rahmenbeding
 </details>
 
 
-details>
+<details>
   <summary><h3>Definiert meine Hochschule/Einrichtung Vorgaben zum Umgang mit Forschungsdaten?<h3></summary>
 
 
-Jede Hochschule, die weiterhin Fördermittel von der DFG erhalten möchte, ist aufgefordert, den DFG-Kodex an der eigenen Hochschule umzusetzen.Die Umsetzungsfrist lief bis zum 31.07.2023. Mit der Umsetzung des Kodex bekennt sich die Hochschule zu den Vorgaben der DFG hinsichtlich des Umgangs mit Forschungsdaten (vgl. Leitlinie 13). [Link zum Kodex](https://zenodo.org/records/6472827) 
+Jede Hochschule, die weiterhin Fördermittel von der DFG erhalten möchte, ist aufgefordert, den DFG-Kodex an der eigenen Hochschule umzusetzen.Die Umsetzungsfrist lief bis zum 31.07.2023. Mit der Umsetzung des Kodex bekennt sich die Hochschule zu den Vorgaben der DFG hinsichtlich des Umgangs mit Forschungsdaten (vgl. Leitlinie 13). [Link zum Kodex](https://zenodo.org/records/6472827)
 
 </details>
 
 
-details>
+<details>
   <summary><h3>Welche Vorteile ergeben sich für mich als Forschende:r, wenn ich Forschungsdatenmanagement betreibe?<h3></summary>
 
-FDM betreibt im Prinzip bereits jede:r, die:der Forschungsdaten nachnutzt und/oder erhebt und abspeichert. 
+FDM betreibt im Prinzip bereits jede:r, die:der Forschungsdaten nachnutzt und/oder erhebt und abspeichert.
 * Ein professionelles FDM erleichtert die eigene Arbeit (strukturierte Dokumentation der Daten)
 * FDM verbessert die Zusammenarbeit (Standardisierung, Interoperabilität, Zugriffsrechte)
 * FDM macht Daten langfristig (nach-)nutzbar - auch für die eigene Arbeit
@@ -59,13 +58,13 @@ FDM betreibt im Prinzip bereits jede:r, die:der Forschungsdaten nachnutzt und/od
 * Ein ordentliches FDM schafft Rechtssicherheit
 * Die Publikation von Daten steigert den wissenschaftlichen Impact (Zitierbarkeit)
 * Ein richtig angewandtes FDM kann Datenverlust vorbeugen
-* FDM erhöht die Chancen, einen Drittmittelantrag erfolgreich zu platzieren, da man den Bedenken rund um das Datenmanagement schon vor Projektbeginn Rechnung trägt 
-* FDM ermöglicht, Daten als Educational Ressource zu verwenden 
+* FDM erhöht die Chancen, einen Drittmittelantrag erfolgreich zu platzieren, da man den Bedenken rund um das Datenmanagement schon vor Projektbeginn Rechnung trägt
+* FDM ermöglicht, Daten als Educational Ressource zu verwenden
 
 </details>
 
 
-details>
+<details>
   <summary><h3>Ich möchte/muss einen Datenmanagementplan  (DMP) schreiben. Gibt es hierfür Musterpläne?<h3></summary>
 
 Einige Muster-DMP sind öffentlich zugänglich. Hier gibt es "fiktive" Muster-DMP aber auch Datenmanagementpläne, die aus "realen" Forschungsprojekten veröffentlicht wurden. Die HU-Berlin hat einige [Musterpläne](https://www.cms.hu-berlin.de/de/dl/dataman/arbeiten/dmp_erstellen/dmp-info) zusammengestellt.
@@ -79,11 +78,11 @@ Es gibt auch verschiedene Templates für DMP in Online-Tools wie [DMPonline](htt
   <summary>Ich möchte/muss einen Datenmanagementplan (DMP) schreiben. Gibt es hierfür Tools?</summary>
   Es existieren verschiedene nationale wie auch internationale DMP-Tools. Die Auswahl des passenden Tools erfolgt abhängig von verschiedenen Faktoren wie z. B. die unterstützten Templates der Förderer oder kollaborative Möglichkeiten.
   Eine ausführliche Übersicht hierzu bietet der DMP-Tool Guide: [https://zenodo.org/record/4632308](https://zenodo.org/record/4632308)
-  
+
 </details>
 
 
-details>
+<details>
   <summary><h3>Auf welche Ressourcen kann ich für das Management der Forschungsdaten zurückgreifen?<h3></summary>
 
 Einige Forschungsförderer sind dazu übergegangen, Ressourcen für das Forschungsdatenmanagement im Rahmen der Antragstellung zu berücksichtigen. So können z. B. in [DFG-Anträgen](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/beantragbare_mittel/index.html) entsprechende Ressourcen mitbeantragt werden .
@@ -96,7 +95,7 @@ Je nach Forschungsförderer können sowohl Sachkosten (z. B. Beschaffung von IT-
 <details>
   <summary>Wie kann ich meine Daten im Labor organisieren?</summary>
 
-Je nachdem, wie in einem Labor gearbeitet wird, kommen verschiedene Lösungen in Frage. Diese können eigene Serverlösungen für große Datenmengen, gemeinsame Konventionen für Dateibenennungen und/oder Wikis und spezialisierte Wissensmanagementtools umfassen. Soll zusammen mit den Daten auch viel Kontext (Metadaten) hinterlegt werden, empfielt es sich, ein elektronisches Labor(notiz)buch oder auch ein Labor Information and Management System zu verwenden (LIMS). Das kollaborative Arbeiten steht bei diesen Lösungen im Vordergrund. 
+Je nachdem, wie in einem Labor gearbeitet wird, kommen verschiedene Lösungen in Frage. Diese können eigene Serverlösungen für große Datenmengen, gemeinsame Konventionen für Dateibenennungen und/oder Wikis und spezialisierte Wissensmanagementtools umfassen. Soll zusammen mit den Daten auch viel Kontext (Metadaten) hinterlegt werden, empfielt es sich, ein elektronisches Labor(notiz)buch oder auch ein Labor Information and Management System zu verwenden (LIMS). Das kollaborative Arbeiten steht bei diesen Lösungen im Vordergrund.
 
 </details>
 
@@ -124,13 +123,5 @@ Eine sehr schöne Zusammenfassung der Vorteile eines elektronischen Laborbuchs b
 Bei der Auswahl eines passenden ELB sind verschiedene Faktoren ausschlaggebend, z. B. die Finanzierung, der Speicherort oder ob fachspezifisch oder generisch gearbeitet werden soll. Unterstützung bei der Auswahl gibt der [ELN-Finder](https://eln-finder.ulb.tu-darmstadt.de/search?spc.sf=dc.title&spc.sd=ASC&f.K02=Open%20Source,equals&spc.page=1&f.K03=Chemie,equals&f.K07=Free,equals)
 
 Eine Übersicht über verschiedene Produkte liefert die [ELN-Matrix](https://docs.google.com/spreadsheets/d/1ar8fgwagOh30E31EAPL-Gorwn_g6XNf81g3VDQnQ_I8/edit#gid=0) der Harvard Medical School.
-
-</details>
-
-
-<details>
-  <summary><h3>Frage<h3></summary>
-
-Antwort 
 
 </details>
