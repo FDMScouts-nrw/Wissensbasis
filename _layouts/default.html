@@ -31,13 +31,11 @@
         <br>
         <br>
 
-        
+
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">Inhalte der Wissensbasis auf GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
+
 
 
       </header>
@@ -58,6 +56,9 @@
         <br>
          <br>
          <br>
+         {% if site.github.is_project_page %}
+         <p><small><a href="{{ site.github.repository_url }}">Inhalte dieser Seite auf GitHub {{ site.github.repository_nwo }}</small></a></p>
+         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
