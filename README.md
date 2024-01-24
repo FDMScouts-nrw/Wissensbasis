@@ -1,9 +1,11 @@
 
 
-<b>Forschungsdatenmanagement - was ist das überhaupt?
+<b>Forschungsdatenmanagement - was ist das überhaupt?<br>
 Welche Inititativen, Materialien und Standards sind für den Einstieg sinnvoll?</b>
 <br>
+<br>
 Im Forschungsprozess tauchen an den unterschiedlichsten Stellen Fragen auf - dieses FAQ gibt zu vielen dieser Fragen eine erste Orientierung.
+<br>
 Unterteilt in die verschiedenen Abschnitte des Forschungsdatenlebenszyklus finden Forschende und Infrastrukturpersonal Antworten, Hinweise und Links - basierend auf den Erfahrungen der FDMScout:innen von zehn Hochschulen für angewandte Wissenschaften in NRW.
 
 <p align="center">
