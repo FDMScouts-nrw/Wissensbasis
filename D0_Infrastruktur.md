@@ -108,7 +108,7 @@
 
   Das DIAMANT-Modell wurde im Rahmen des BMBF-geförderten Projekts „Prozessorientierte Entwicklung von Managementinstrumenten für Forschungsdaten im Lebenszyklus“ (PODMAN) an der Universität Trier entwickelt. Es fokussiert Optimierungsprozesse von FDM-Services und der Zusammenarbeit verschiedener Player am Standort. Zudem werden die Kompetenzen der beteiligten Personen zum FDM bzw. zu damit verbundenen Themen identifiziert.
   <br>
-  Lemaire, M., Gerhards, L., Kellendonk, S. u. a. (2020): Das DIAMANT-Modell 2.0. Modellierung des FDM-Referenzprozesses und Empfehlungen für die Implementierung einer institutionellen FDM-Servicelandschaft (eSciences Working Papers, 05). Trier. DOI:<https://doi.org/10.25353/ubtr-xxxx-f5d2-fffb>
+  Lemaire, M., Gerhards, L., Kellendonk, S. u. a. (2020): Das DIAMANT-Modell 2.0. Modellierung des FDM-Referenzprozesses und Empfehlungen für die Implementierung einer institutionellen FDM-Servicelandschaft (eSciences Working Papers, 05). Trier. DOI: <https://doi.org/10.25353/ubtr-xxxx-f5d2-fffb>
 
 </details>
 <br>
