@@ -30,7 +30,7 @@ Eine sehr schöne Zusammenfassung der Vorteile eines elektronischen Laborbuchs b
 <details markdown="block">
   <summary><b>Wie finde ich das richtige Elektronische Laborbuch für meine Bedarfe?</b></summary>
 
-Bei der Auswahl eines passenden ELB sind verschiedene Faktoren ausschlaggebend, z. B. die Finanzierung, der Speicherort oder ob fachspezifisch oder generisch gearbeitet werden soll. Unterstützung bei der Auswahl gibt der [ELN-Finder](https://eln-finder.ulb.tu-darmstadt.de/search?spc.sf=dc.title&spc.sd=ASC&f.K02=Open%20Source,equals&spc.page=1&f.K03=Chemie,equals&f.K07=Free,equals)
+Bei der Auswahl eines passenden ELBs sind verschiedene Faktoren ausschlaggebend, z. B. die Finanzierung, der Speicherort oder ob fachspezifisch oder generisch gearbeitet werden soll. Unterstützung bei der Auswahl gibt der [ELN-Finder](https://eln-finder.ulb.tu-darmstadt.de/search?spc.sf=dc.title&spc.sd=ASC&f.K02=Open%20Source,equals&spc.page=1&f.K03=Chemie,equals&f.K07=Free,equals)
 <br>
 Eine Übersicht über verschiedene Produkte liefert die [ELN-Matrix](https://docs.google.com/spreadsheets/d/1ar8fgwagOh30E31EAPL-Gorwn_g6XNf81g3VDQnQ_I8/edit#gid=0) der Harvard Medical School.
 
