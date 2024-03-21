@@ -30,7 +30,7 @@ Quelle: Deutsche Forschungsgemeinschaft (2019). Leitlinien zur Sicherung guter w
 
 In Ergänzung und Abgrenzung zur Leitlinie 17 des DFG-Kodex zur Guten wissenschaftlichen Praxis und der Aufbewahrungspflicht von 10 Jahren können und sollten relevante Forschungsdaten auch langfristig aufbewahrt und verfügbar gemacht werden.
 <br>
-"'Langzeit' ist ein Hilfswort für die Beschreibung eines nicht näher fixierten Zeitraumes, in dem technologische und soziokulturelle Veränderungen eintreten können, die den Erhalt, den Zugriff auf, die Recherche in und die Nachnutzung von digitalen Forschungsdaten beeinflussen können. Die digitale Langzeitarchivierung umfasst demnach eine Reihe von Maßnahmen, die geplant, kontrolliert und vorgenommen werden müssen." (Biernacka K. et al.: Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement. Version 4.0, https://doi.org/10.5281/zenodo.5773203, S. 88-89)
+"'Langzeit' ist ein Hilfswort für die Beschreibung eines nicht näher fixierten Zeitraumes, in dem technologische und soziokulturelle Veränderungen eintreten können, die den Erhalt, den Zugriff auf, die Recherche in und die Nachnutzung von digitalen Forschungsdaten beeinflussen können. Die digitale Langzeitarchivierung umfasst demnach eine Reihe von Maßnahmen, die geplant, kontrolliert und vorgenommen werden müssen." (Biernacka K. et al.: Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement. Version 4.0, <https://doi.org/10.5281/zenodo.5773203>, S. 88-89)
 <br>
 In NRW erarbeitet die [Landesinitiative Langzeitverfügbarkeit](https://www.lzv.nrw/) - LZV.nrw hochschulübergreifende Lösungen im Rahmen der Digitalisierungsoffensive des Landes NRW.
 
