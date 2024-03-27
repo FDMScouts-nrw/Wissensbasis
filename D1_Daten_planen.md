@@ -44,7 +44,7 @@ Auf der [Webseite der DFG](https://www.dfg.de/foerderung/grundlagen_rahmenbeding
   <summary><b>Definiert meine Hochschule/Einrichtung Vorgaben zum Umgang mit Forschungsdaten?</b></summary>
 
 
-Jede Hochschule, die weiterhin Fördermittel von der DFG erhalten möchte, ist aufgefordert, den DFG-Kodex an der eigenen Hochschule umzusetzen. Die Umsetzungsfrist lief bis zum 31.07.2023. Mit der Umsetzung des Kodex bekennt sich die Hochschule zu den Vorgaben der DFG hinsichtlich des Umgangs mit Forschungsdaten (vgl. [Leitlinie 13, Leitlinien zur Sicherung guter wissenschaftlicher Praxis - Kodex)](https://doi.org/10.5281/zenodo.6472827)
+Jede Hochschule, die weiterhin Fördermittel von der DFG erhalten möchte, ist aufgefordert, den DFG-Kodex an der eigenen Hochschule umzusetzen. Die Umsetzungsfrist lief bis zum 31.07.2023. Mit der Umsetzung des Kodex bekennt sich die Hochschule zu den Vorgaben der DFG hinsichtlich des Umgangs mit Forschungsdaten (vgl. [Leitlinie 13, Leitlinien zur Sicherung guter wissenschaftlicher Praxis - Kodex])(https://doi.org/10.5281/zenodo.6472827)
 
 </details>
 <br>
