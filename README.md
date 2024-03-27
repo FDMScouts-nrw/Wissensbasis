@@ -18,5 +18,5 @@ Unterteilt in die verschiedenen Abschnitte des Forschungsdatenlebenszyklus finde
 ### [Daten aufbereiten und analysieren](D3_Daten_aufbereiten+analysieren.md)
 ### [Daten teilen und publizieren](D4_Daten_teilen+publizieren.md)
 ### [Daten archivieren](D5_Daten_archivieren.md)
-<br>
+
 ### [weitere Antworten für Infrastrukturpersonal](D0_Infrastruktur.md)
