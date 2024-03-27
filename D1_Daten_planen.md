@@ -44,7 +44,7 @@ Auf der [Webseite der DFG](https://www.dfg.de/foerderung/grundlagen_rahmenbeding
   <summary><b>Definiert meine Hochschule/Einrichtung Vorgaben zum Umgang mit Forschungsdaten?</b></summary>
 
 
-Jede Hochschule, die weiterhin Fördermittel von der DFG erhalten möchte, ist aufgefordert, den DFG-Kodex an der eigenen Hochschule umzusetzen. Die Umsetzungsfrist lief bis zum 31.07.2023. Mit der Umsetzung des Kodex bekennt sich die Hochschule zu den Vorgaben der DFG hinsichtlich des Umgangs mit Forschungsdaten (vgl. [Leitlinie 13, Leitlinien zur Sicherung guter wissenschaftlicher Praxis - Kodex](https://doi.org/10.5281/zenodo.6472827)
+Jede Hochschule, die weiterhin Fördermittel von der DFG erhalten möchte, ist aufgefordert, den DFG-Kodex an der eigenen Hochschule umzusetzen. Die Umsetzungsfrist lief bis zum 31.07.2023. Mit der Umsetzung des Kodex bekennt sich die Hochschule zu den Vorgaben der DFG hinsichtlich des Umgangs mit Forschungsdaten (vgl. [Leitlinie 13, Leitlinien zur Sicherung guter wissenschaftlicher Praxis - Kodex)](https://doi.org/10.5281/zenodo.6472827)
 
 </details>
 <br>
@@ -95,7 +95,7 @@ Es gibt auch verschiedene Templates für DMP in Online-Tools wie [DMPonline](htt
 Einige Forschungsförderer sind dazu übergegangen, Ressourcen für das Forschungsdatenmanagement im Rahmen der Antragstellung zu berücksichtigen. So können z. B. in [DFG-Anträgen](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/beantragbare_mittel/index.html) entsprechende Ressourcen mitbeantragt werden.
 <br>
 Zentral hierfür kann sich eine frühzeitige Absprache mit der [FDM-Kontaktstelle bzw. -Ansprechperson](https://www.forschungsdaten.org/index.php/FDM-Kontakte#Deutschland) an Ihrer Einrichtung erweisen, um vorhandene und benötigte Ressourcen gemeinsam zu evaluieren.
-Je nach Forschungsförderer können sowohl Sachkosten (z. B. Beschaffung von IT-Infrastruktur, Übernahme von Publikationskosten für die Datenpublikation) als auch Personalkosten - insbesondere bei großen Forschungsprojekten - beantragt werden.
+Je nach Forschungsförderer können sowohl Sachkosten (z. B. Beschaffung von IT-Infrastruktur, Übernahme von Publikationskosten für die Datenpublikation) als auch Personalkosten – insbesondere bei großen Forschungsprojekten – beantragt werden.
 
 </details>
 <br>
@@ -103,7 +103,7 @@ Je nach Forschungsförderer können sowohl Sachkosten (z. B. Beschaffung von IT-
 <details markdown="block">
   <summary><b>Wie kann ich meine Daten im Labor organisieren?</b></summary>
 
-Je nachdem, wie in einem Labor gearbeitet wird, kommen verschiedene Lösungen in Frage. Diese können eigene Serverlösungen für große Datenmengen, gemeinsame Konventionen für Dateibenennungen und/oder Wikis und spezialisierte Wissensmanagementtools umfassen. Soll zusammen mit den Daten auch viel Kontext (Metadaten) hinterlegt werden, empfielt es sich, ein elektronisches Labor(notiz)buch oder auch ein Labor Information and Management System zu verwenden (LIMS). Das kollaborative Arbeiten steht bei diesen Lösungen im Vordergrund.
+Je nachdem, wie in einem Labor gearbeitet wird, kommen verschiedene Lösungen in Frage. Diese können eigene Serverlösungen für große Datenmengen, gemeinsame Konventionen für Dateibenennungen und/oder Wikis und spezialisierte Wissensmanagementtools umfassen. Soll zusammen mit den Daten auch viel Kontext (Metadaten) hinterlegt werden, empfiehlt es sich, ein elektronisches Labor(notiz)buch oder auch ein Labor Information and Management System zu verwenden (LIMS). Das kollaborative Arbeiten steht bei diesen Lösungen im Vordergrund.
 
 </details>
 <br>
@@ -119,7 +119,7 @@ Ein [elektronisches Laborbuch](https://datamanagement.hms.harvard.edu/analyze/el
 <details markdown="block">
   <summary><b>Was sind die Vorteile eines elektronischen Laborbuchs (ELB)?</b></summary>
 
-Das Führen eines Laborbuchs in digitaler Form bietet viele Vorteile. Besonders die gute Nachvollziehbarkeit und Durchsuchbarkeit der Einträge führen zu einer hohen Zeitersparnis. Zudem besteht die Möglichkeit, kollaborativ zu arbeiten und die betreffenden (technischen) Daten direkt mit in den Eintrag einzubinden. Auch kann - je nach verwendetem Tool - durch Signaturen und Versionierungen eine gute Beweissicherheit gewährleistet werden.
+Das Führen eines Laborbuchs in digitaler Form bietet viele Vorteile. Besonders die gute Nachvollziehbarkeit und Durchsuchbarkeit der Einträge führen zu einer hohen Zeitersparnis. Zudem besteht die Möglichkeit, kollaborativ zu arbeiten und die betreffenden (technischen) Daten direkt mit in den Eintrag einzubinden. Auch kann – je nach verwendetem Tool – durch Signaturen und Versionierungen eine gute Beweissicherheit gewährleistet werden.
 <br>
 Eine sehr schöne Zusammenfassung der Vorteile eines elektronischen Laborbuchs bietet die [Seite des ZB MED](https://www.publisso.de/forschungsdatenmanagement/dokumentieren/vorteile-eines-eln/).
 
