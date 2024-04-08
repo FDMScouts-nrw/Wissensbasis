@@ -10,8 +10,9 @@ Unterteilt in die verschiedenen Abschnitte des Forschungsdatenlebenszyklus finde
 
 <p align="center">
   <img style="width:15vw; height:15vw; min-width:350px; min-height:350px" src="DLZ_FAQ.png"><br>
-<small><a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC By 4.0 International</small></a>
+<small><a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0 International</small></a>
 </p>
+
 
 ### [Daten planen](D1_Daten_planen.md)
 ### [Daten nachnutzen](D6_Daten_nachnutzen.md)
