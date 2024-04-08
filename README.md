@@ -9,7 +9,8 @@ Im Forschungsprozess tauchen an den unterschiedlichsten Stellen Fragen auf - die
 Unterteilt in die verschiedenen Abschnitte des Forschungsdatenlebenszyklus finden Forschende und Infrastrukturpersonal Antworten, Hinweise und Links - basierend auf den Erfahrungen der FDMScout:innen von zehn Hochschulen für angewandte Wissenschaften in NRW.
 
 <p align="center">
-  <img style="width:15vw; height:15vw; min-width:350px; min-height:350px" src="DLZ_FAQ.png">
+  <img style="width:15vw; height:15vw; min-width:350px; min-height:350px" src="DLZ_FAQ.png"><br>
+<small><a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC By 4.0 International</small></a>
 </p>
 
 ### [Daten planen](D1_Daten_planen.md)
