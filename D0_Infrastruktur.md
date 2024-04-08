@@ -20,23 +20,20 @@
   Es gibt verschiedene Argumente, wo die ideale Verortung einer FDM-Kontaktperson ist.
   <br>
   * <b>IT:</b> FDM ist vor allem für digitale Daten interessant. Zudem gibt es in manchen Fachdisziplinen hilfreiche Tools, die von der Hochschul-IT implementiert werden müssten. Deshalb ist es sinnvoll, wenn  jemand, der zum IT-Team gehört, auch Kenntnisse über das Forschungsdatenmanagement hat.
-  * <b>Forschungsförderung:</b> Immer mehr Fördermittelgeber:innen verlangen bei Antragsstellung Datenmanagementpläne oder verlangen Open Access Publikationen, für die bereits bei der Planung des Projektes Budget einkalkuliert werden sollte. Deshalb ist es sinnvoll, wenn jemand der zur Forschungsförderung gehört , FDM und die damit verbundenen Ressourcen bei der Antragsberatung mitdenken kann.
+  * <b>Forschungsförderung:</b> Immer mehr Fördermittelgeber:innen verlangen bei Antragsstellung Datenmanagementpläne oder verlangen Open Access Publikationen, für die bereits bei der Planung des Projektes Budget einkalkuliert werden sollte. Deshalb ist es sinnvoll, wenn jemand der zur Forschungsförderung gehört, FDM und die damit verbundenen Ressourcen bei der Antragsberatung mitdenken kann.
   * <b>Bibliothek:</b> Daten und Artikel "FAIR" oder gar "open" zu publizieren klingt leichter als es ist. Spätestens an diesem Punkt im Forschungsdatenlebenszyklus ist es sinnvoll, wenn jemand, der zur Bibliothek gehört, weiß, wie FDM funktioniert und die Forschenden entsprechend beraten kann.
-  * <b>Justiziariat:</b> Datenschutz, Personenbezogene Daten, Intellectual Property, Nutzungsrechte, Urheberrechte - zahlreiche Rechtsgebiete werden von FDM berührt. Deshalb ist es sinnvoll, wenn jemand, der zum Justiziariat gehört, Ahnung von Forschungsdatenmanagement hat und die Forschenden in vielen Punkten rechtlich fundiert beraten kann.
-  
+  * <b>Justiziariat:</b> Datenschutz, Personenbezogene Daten, Intellectual Property, Nutzungsrechte, Urheberrechte – zahlreiche Rechtsgebiete werden von FDM berührt. Deshalb ist es sinnvoll, wenn jemand, der zum Justiziariat gehört, Ahnung von Forschungsdatenmanagement hat und die Forschenden in vielen Punkten rechtlich fundiert beraten kann.
+
   Am besten ist es, wenn es eine FDM-Ansprechperson in jeder dieser Serviceeinheiten einer Hochschule gibt, die sich in ihrem Bereich zum FDM sehr gut auskennt. Nur so kann an der Hochschule umfassend und lückenlos beraten und agiert werden.
 
-</details>
-<br>
+  <details markdown="block">
+    <summary><b>Was sind die Aufgaben einer FDM-Kontaktstelle, bzw. einer FDM-Ansprechperson (z. B. FDMScout)?</b></summary>
 
-<details markdown="block">
-  <summary><b>Was sind die Aufgaben einer FDM-Kontaktstelle, bzw. einer FDM-Ansprechperson (z. B. FDMScout)?</b></summary>
+    FDM-Personal – beteiligte Organisationseinheiten sind i.d.R. Forschungsförderung, Bibliothek, IT, Justiziariat und Datenschutz – muss ein ganzes Spektrum FDM-bezogener Anforderungen und Aufgaben innerhalb einzelner Hochschulen bedienen, wobei wiederum unterschieden wird zwischen (a) FDM-Dienstleistungen an der Hochschule, wie z.B. Beratungs- oder Schulungsangebot zu Datenmanagementplänen, und (b) Grundlegenden Aufgaben, die unabhängig vom Forschungsprozess geschehen müssen. Als Beispiele seien hier genannt die Begleitung der strategischen Hochschulentwicklung mit Blick auf FDM (hier liegt der Fokus der Tätigkeit auf der Hochschule selbst) und Bedarfserfassung (hier liegt der Fokus der Tätigkeit auf den Forschenden).
+    <br>
+    Eine Zusammenfassung und Visualisierung der Aufgaben finden Sie in der Grafik: [„Generalisierte FDM-Aufgaben an HAW sowie Erfahrungen in der hochschulübergreifenden Zusammenarbeit und Integration NRW- und bundesweiter Angebote: Die Perspektive der FDMScout:innen“](https://doi.org/10.5281/zenodo.7886667). Diese veranschaulicht die FDM-Aufgaben und Angebote innerhalb der einzelnen Hochschulen, im FDMScout.nrw-Netzwerk und auf Bundes- und Landesebene.
 
-  FDM-Personal – beteiligte Organisationseinheiten sind i.d.R. Forschungsförderung, Bibliothek, IT, Justiziariat und Datenschutz – muss ein ganzes Spektrum FDM-bezogener Anforderungen und Aufgaben innerhalb einzelner Hochschulen bedienen, wobei wiederum unterschieden wird zwischen (a) FDM-Dienstleistungen an der Hochschule, wie z.B. Beratungs- oder Schulungsangebot zu Datenmanagementplänen, und (b) Grundlegenden Aufgaben, die unabhängig vom Forschungsprozess geschehen müssen. Als Beispiele seien hier genannt die Begleitung der strategischen Hochschulentwicklung mit Blick auf FDM (hier liegt der Fokus der Tätigkeit auf der Hochschule selbst) und Bedarfserfassung (hier liegt der Fokus der Tätigkeit auf den Forschenden).
-  <br>
-  Eine Zusammenfassung und Visualisierung der Aufgaben finden Sie in der Grafik: [„Generalisierte FDM-Aufgaben an HAW sowie Erfahrungen in der hochschulübergreifenden Zusammenarbeit und Integration NRW- und bundesweiter Angebote: Die Perspektive der FDMScout:innen“](https://doi.org/10.5281/zenodo.7886667). Diese veranschaulicht die FDM-Aufgaben und Angebote innerhalb der einzelnen Hochschule, im FDMScout.nrw-Netzwerk und auf Bundes- und Landesebene.
-
-</details>
+  </details>
 <br>
 
 <details markdown="block">
@@ -60,7 +57,7 @@
 <details markdown="block">
   <summary><b>Welche FDM-Angebote/-Institutionen gibt es auf NRW-Ebene?</b></summary>
 
-  Auf NRW-Landesebene gibt es die Landesinitiative für Forschungsdatenmanagement - fdm.nrw. Desweiteren gibt es unterschiedliche Infrastrukturangebote, die direkt oder indirekt auf FDM-relevante Aspekte abzielen. Exemplarisch seien hier genannt:
+  Auf NRW-Landesebene gibt es die Landesinitiative für Forschungsdatenmanagement – fdm.nrw. Des Weiteren gibt es unterschiedliche Infrastrukturangebote, die direkt oder indirekt auf FDM-relevante Aspekte abzielen. Exemplarisch seien hier genannt:
   * sciebo.nrw
   * gitlab.nrw
   * LZV.nrw
@@ -68,7 +65,7 @@
   * hbz.nrw
   * datensicherung.nrw
   <br>
-  
+
   Eine Übersicht befindet sich unter [forschungsdaten.info](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/deutschland/nordrhein-westfalen/).
 
 </details>
@@ -77,7 +74,7 @@
 <details markdown="block">
   <summary><b>Welche FDM-Angebote/Institutionen gibt es auf Bundesebene?</b></summary>
 
-  Es gibt eine stetig wachsende und vielfältige Angebotslandschaft zum FDM. Eine Übersicht findet sich unter [forschungsdaten.info](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/deutschland/)
+  Es gibt eine stetig wachsende und vielfältige Angebotslandschaft zum FDM. Eine Übersicht findet sich unter [forschungsdaten.info](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/deutschland/).
 
 </details>
 <br>
@@ -130,7 +127,7 @@
 <details markdown="block">
   <summary><b>Was ist "Bausteine Forschungsdatenmanagement"?</b></summary>
 
-  [Bausteine Forschungsdatenmanagement](https://bausteine-fdm.de/index) ist eine Publikationsreihe (Open-Access-Zeitschrift), die Best-Practice-Beispiele und Erfahrungsberichte zu unterschiedlichen Aspekten des FDMs beinhaltet.
+  [Bausteine Forschungsdatenmanagement](https://bausteine-fdm.de/index) ist eine Publikationsreihe (Open-Access-Zeitschrift), die Best-Practice-Beispiele und Erfahrungsberichte zu unterschiedlichen Aspekten des FDM beinhaltet.
 
 </details>
 <br>
