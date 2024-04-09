@@ -12,7 +12,7 @@ Unterteilt in die verschiedenen Abschnitte des Forschungsdatenlebenszyklus finde
   <img style="width:15vw; height:15vw; min-width:350px; min-height:350px" src="DLZ_FAQ.png">
 </p>
 <p align="center">  
-  <small><a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0 International</a></small>
+  <small>Abbildung: <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0 International</a></small>
 </p>
 
 
