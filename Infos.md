@@ -15,22 +15,26 @@ Buch, S., Claas, O., Eilert, E., Fliegner, A., Raatz, P., Reiter, M., Sauther-Pa
 ## Beitragende
 Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.niso.org/)
 
-Name | Affiliation  | ORCID | Conzeptualization | Validation | Visualization | Writing - original draft | Writing - review & editing
+| Name | Affiliation  | ORCID | Conzeptualization | Validation | Visualization | Writing - original draft | Writing - review & editing |
+
 -------- | ---------- | ----------
-| Susanne Buch        | Hochschule Bonn Rhein-Sieg                        | [0000-0002-3149-0829](https://orcid.org/0000-0002-3149-0829) | X | X | X | X | X
-| Oliver Claas        | Technische Hochschule OWL                         | [0000-0003-3008-720X](https://orcid.org/0000-0003-3008-720X) | X | X |   | X | X
-| Eva Eilert          | Hochschule Düsseldorf                             | [0000-0002-1512-0393](https://orcid.org/0000-0002-1512-0393) | X | X | X | X | X
-| Angelika Fliegner   | FH Münster                                        | [0000-0002-5233-063X](https://orcid.org/0000-0002-5233-063X) | X | X |   | X | X
-| Mareen Kahlisch     | Hochschule Düsseldorf                             | [0009-0004-1175-0576](https://orcid.org/0009-0004-1175-0576) |   |   |   |   | X
-| Philip Raatz        | RWI - Leibniz-Institut für Wirtschaftsforschung   | [0000-0002-9133-0077](https://orcid.org/0000-0002-9133-0077) | X | X |   | X | X
-| Martin Reiter       | Hochschule Rhein-Waal                             | [0000-0002-7217-7564](https://orcid.org/0000-0002-7217-7564) | X | X |   | X | X
-| Katharina Sauther-Patrascu  | TH Köln                                   | [0000-0002-8629-661X](https://orcid.org/0000-0002-8629-661X) | X | X |   | X | X
-| Elena Schick        | TH Köln                                           | [0000-0002-2621-4133](https://orcid.org/0000-0002-2621-4133) | X | X |   | X | X
-| Benjamin Slowig     | Christian-Albrechts-Universität zu Kiel, FDM-SH   | [0000-0001-5343-2788](https://orcid.org/0000-0001-5343-2788) | X | X |   |   | X
+
+| Susanne Buch        | Hochschule Bonn Rhein-Sieg                        | [0000-0002-3149-0829](https://orcid.org/0000-0002-3149-0829) | X | X | X | X | X |
+| Oliver Claas        | Technische Hochschule OWL                         | [0000-0003-3008-720X](https://orcid.org/0000-0003-3008-720X) | X | X |   | X | X |
+| Eva Eilert          | Hochschule Düsseldorf                             | [0000-0002-1512-0393](https://orcid.org/0000-0002-1512-0393) | X | X | X | X | X |
+| Angelika Fliegner   | FH Münster                                        | [0000-0002-5233-063X](https://orcid.org/0000-0002-5233-063X) | X | X |   | X | X |
+| Mareen Kahlisch     | Hochschule Düsseldorf                             | [0009-0004-1175-0576](https://orcid.org/0009-0004-1175-0576) |   |   |   |   | X |
+| Philip Raatz        | RWI - Leibniz-Institut für Wirtschaftsforschung   | [0000-0002-9133-0077](https://orcid.org/0000-0002-9133-0077) | X | X |   | X | X |
+| Martin Reiter       | Hochschule Rhein-Waal                             | [0000-0002-7217-7564](https://orcid.org/0000-0002-7217-7564) | X | X |   | X | X |
+| Katharina Sauther-Patrascu  | TH Köln                                   | [0000-0002-8629-661X](https://orcid.org/0000-0002-8629-661X) | X | X |   | X | X |
+| Elena Schick        | TH Köln                                           | [0000-0002-2621-4133](https://orcid.org/0000-0002-2621-4133) | X | X |   | X | X |
+| Benjamin Slowig     | Christian-Albrechts-Universität zu Kiel, FDM-SH   | [0000-0001-5343-2788](https://orcid.org/0000-0001-5343-2788) | X | X |   |   | X |
 <br>
-<br>
-<br>
-Die Förderlinie FDMScouts.nrw ist ein Kooperationsvorhaben empfohlen durch die Digitale Hochschule NRW, gefördert durch das Ministerium für Kultur und Wissenschaft des Landes NOrdrhein-Westfalen. Sie wurde koordiniert durch die Landesinitiative für Forschungsdatenmanagement – fdm.nrw.
+
+## Infos zur Förderlinie
+Mehr Informationen zur Förderlinie FDMScouts.nrw auf [forschungsdaten.org](https://www.forschungsdaten.org/index.php/FDMScouts.nrw)
+
+Die Förderlinie FDMScouts.nrw ist ein Kooperationsvorhaben empfohlen durch die Digitale Hochschule NRW, gefördert durch das Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen. Sie wurde koordiniert durch die Landesinitiative für Forschungsdatenmanagement – fdm.nrw.
 <br>
 
 [< zurück zur Startseite](README.md)
