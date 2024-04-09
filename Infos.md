@@ -20,9 +20,9 @@ Der Inhalt  dieser Wissensbasis steht unter einer [Creative Commons Namensnennun
 ## Beitragende
 Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.niso.org/)
 
+<p markdown="GFM">
 | Name | Affiliation  | ORCID | Conzeptualization | Validation | Visualization | Writing - original draft | Writing - review & editing |
 | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-
 | Susanne Buch        | Hochschule Bonn Rhein-Sieg                        | [0000-0002-3149-0829](https://orcid.org/0000-0002-3149-0829) | X | X | X | X | X |
 | Oliver Claas        | Technische Hochschule OWL                         | [0000-0003-3008-720X](https://orcid.org/0000-0003-3008-720X) | X | X |   | X | X |
 | Eva Eilert          | Hochschule Düsseldorf                             | [0000-0002-1512-0393](https://orcid.org/0000-0002-1512-0393) | X | X | X | X | X |
@@ -33,6 +33,7 @@ Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.ni
 | Katharina Sauther-Patrascu  | TH Köln                                   | [0000-0002-8629-661X](https://orcid.org/0000-0002-8629-661X) | X | X |   | X | X |
 | Elena Schick        | TH Köln                                           | [0000-0002-2621-4133](https://orcid.org/0000-0002-2621-4133) | X | X |   | X | X |
 | Benjamin Slowig     | Christian-Albrechts-Universität zu Kiel, FDM-SH   | [0000-0001-5343-2788](https://orcid.org/0000-0001-5343-2788) | X | X |   |   | X |
+</p>
 <br>
 <br>
 Inhalte dieser Seite auf [GitHub](https://github.com/FDMScouts-nrw/Wissensbasis). Weitere Beiträge sind herzlich willkommen.
