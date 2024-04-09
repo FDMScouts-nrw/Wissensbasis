@@ -1,5 +1,6 @@
-
-
+[< zurück zur Startseite](README.md)
+<br>
+<br>
 # Daten planen
 
 <details markdown="block">
@@ -135,3 +136,5 @@ Eine Übersicht über verschiedene Produkte liefert die [ELN-Matrix](https://doc
 
 </details>
 <br>
+<br>
+[< zurück zur Startseite](README.md)

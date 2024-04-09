@@ -1,3 +1,6 @@
+[< zurück zur Startseite](README.md)
+<br>
+<br>
 # Daten erheben
 
 
@@ -52,3 +55,5 @@ Weitere Informationen gibt es auch bei [forschungsdaten.info](https://forschungs
 
 </details>
 <br>
+<br>
+[< zurück zur Startseite](README.md)

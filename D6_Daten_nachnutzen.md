@@ -1,3 +1,6 @@
+[< zurück zur Startseite](README.md)
+<br>
+<br>
 # Daten nachnutzen
 
 
@@ -47,4 +50,7 @@ In der Präsentation von Peter Brettschneider beschreibt Folie 7 das Spannungsve
 Quelle: Brettschneider, P. (2020). Wem "gehören" Forschungsdaten?. Zenodo. https://doi.org/10.5281/zenodo.3763031
 
 </details>
+<br>
+<br>
+[< zurück zur Startseite](README.md)
 <br>

@@ -1,3 +1,6 @@
+[< zurück zur Startseite](README.md)
+<br>
+<br>
 # Daten aufbereiten und analysieren
 
 
@@ -8,4 +11,7 @@ Die Verwendung offener Dateiformate (wie zum Beispiel das txt- oder das csv-Form
 
 
 </details>
+<br>
+<br>
+[< zurück zur Startseite](README.md)
 <br>

@@ -1,3 +1,6 @@
+[< zurück zur Startseite](README.md)
+<br>
+<br>
 # Daten archivieren
 
 
@@ -35,4 +38,7 @@ In Ergänzung und Abgrenzung zur Leitlinie 17 des DFG-Kodex zur Guten wissenscha
 In NRW erarbeitet die [Landesinitiative Langzeitverfügbarkeit](https://www.lzv.nrw/) - LZV.nrw hochschulübergreifende Lösungen im Rahmen der Digitalisierungsoffensive des Landes NRW.
 
 </details>
+<br>
+<br>
+[< zurück zur Startseite](README.md)
 <br>

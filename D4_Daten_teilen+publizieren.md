@@ -1,3 +1,6 @@
+[< zurück zur Startseite](README.md)
+<br>
+<br>
 # Daten teilen und publizieren
 
 
@@ -91,4 +94,7 @@ In ihren von den Hochschulen umzusetzenden Leitlinien zur Sicherung guter wissen
 Die Anerkennung eines Datensatzes als wissenschaftliche Publikation kann aktuell je nach Fachdisziplin variieren. Auch die spezifischen Anforderungen und Standards können unterschiedlich sein. Durch eine qualitätsgesicherte Veröffentlichungspraxis sowie durch Einforderung und Gewährung von Anerkennung für Datenpublikationen (z.B. gegenüber Kolleg:innen, Fachverbänden, Hochschulen, Fördermittelgebern) können Wissenschaftler:innen durchaus Einfluss auf entsprechende Entwicklungen nehmen.
 
 </details>
+<br>
+<br>
+[< zurück zur Startseite](README.md)
 <br>
