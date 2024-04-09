@@ -30,7 +30,8 @@ Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.ni
 | Elena Schick        | TH Köln                                           | [0000-0002-2621-4133](https://orcid.org/0000-0002-2621-4133) | X | X |   | X | X |
 | Benjamin Slowig     | Christian-Albrechts-Universität zu Kiel, FDM-SH   | [0000-0001-5343-2788](https://orcid.org/0000-0001-5343-2788) | X | X |   |   | X |
 <br>
-
+<br>
+Inhalte dieser Seite auf [GitHub](https://github.com/FDMScouts-nrw/Wissensbasis). Weitere Beiträge sind herzlich willkommen.
 ## Infos zur Förderlinie
 Mehr Informationen zur Förderlinie FDMScouts.nrw auf [forschungsdaten.org](https://www.forschungsdaten.org/index.php/FDMScouts.nrw)
 
