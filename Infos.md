@@ -1,6 +1,6 @@
 
 
-# Fragen? Antworten! FDM-FAQ - Die Wissensbasis der FDMScout*innen
+# Fragen? Antworten! FDM-FAQ - Die Wissensbasis der FDMScout:innen
 
 Know-how im Forschungsdatenmanagement (FDM) aufzubauen und zu erhalten, ist eine grundlegende, stetig an Bedeutung zunehmende Aufgabe an Hochschulen für angewandte Wissenschaften (HAW) (vgl. [Buch et al. 2023](http://www.doi.org/10.5281/zenodo.7886667)). Dieses Know-how kommt Mitarbeitenden der FDM-Servicestellen einer Hochschule ebenso zugute wie Forschenden selbst: Es versetzt FDM-Personal in die Lage, Forschende zielführend zu beraten, zu schulen und ihnen adäquate Tools und Services zu vermitteln; Forschenden werden konkrete Lösungswege für (neuartige) praktische Herausforderungen in Forschungsvorhaben aufgezeigt. Beide Gruppen werden weiterhin befähigt, hochschulinterne und -übergreifende Diskurse und Initiativen zum FDM mitzugestalten. Auf diese Weise trägt FDM-Know-how dazu bei, anforderungsgerechte und gewinnbringende Rahmenbedingungen für Forschung an HAW zu schaffen.
 <br>
@@ -20,20 +20,119 @@ Der Inhalt  dieser Wissensbasis steht unter einer [Creative Commons Namensnennun
 ## Beitragende
 Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.niso.org/)
 
-<p markdown="GFM">
-| Name | Affiliation  | ORCID | Conzeptualization | Validation | Visualization | Writing - original draft | Writing - review & editing |
-| -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| Susanne Buch        | Hochschule Bonn Rhein-Sieg                        | [0000-0002-3149-0829](https://orcid.org/0000-0002-3149-0829) | X | X | X | X | X |
-| Oliver Claas        | Technische Hochschule OWL                         | [0000-0003-3008-720X](https://orcid.org/0000-0003-3008-720X) | X | X |   | X | X |
-| Eva Eilert          | Hochschule Düsseldorf                             | [0000-0002-1512-0393](https://orcid.org/0000-0002-1512-0393) | X | X | X | X | X |
-| Angelika Fliegner   | FH Münster                                        | [0000-0002-5233-063X](https://orcid.org/0000-0002-5233-063X) | X | X |   | X | X |
-| Mareen Kahlisch     | Hochschule Düsseldorf                             | [0009-0004-1175-0576](https://orcid.org/0009-0004-1175-0576) |   |   |   |   | X |
-| Philip Raatz        | RWI - Leibniz-Institut für Wirtschaftsforschung   | [0000-0002-9133-0077](https://orcid.org/0000-0002-9133-0077) | X | X |   | X | X |
-| Martin Reiter       | Hochschule Rhein-Waal                             | [0000-0002-7217-7564](https://orcid.org/0000-0002-7217-7564) | X | X |   | X | X |
-| Katharina Sauther-Patrascu  | TH Köln                                   | [0000-0002-8629-661X](https://orcid.org/0000-0002-8629-661X) | X | X |   | X | X |
-| Elena Schick        | TH Köln                                           | [0000-0002-2621-4133](https://orcid.org/0000-0002-2621-4133) | X | X |   | X | X |
-| Benjamin Slowig     | Christian-Albrechts-Universität zu Kiel, FDM-SH   | [0000-0001-5343-2788](https://orcid.org/0000-0001-5343-2788) | X | X |   |   | X |
-</p>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Affiliation</th>
+    <th>ORCID</th>
+    <th>Conzeptualization</th>
+    <th>Validation</th>
+    <th>Visualization</th>
+    <th>Writing - original draft</th>
+    <th>Writing - review & editing</th>
+  </tr>
+  <tr>
+    <td>Susanne Buch</td>
+    <td>Hochschule Bonn Rhein-Sieg</td>
+    <td>[0000-0002-3149-0829](https://orcid.org/0000-0002-3149-0829)</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Oliver Claas</td>
+    <td>Technische Hochschule OWL </td>
+    <td>[0000-0003-3008-720X](https://orcid.org/0000-0003-3008-720X)</td>
+    <td>X</td>
+    <td>X</td>
+    <td> </td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Eva Eilert</td>
+    <td>Hochschule Düsseldorf </td>
+    <td>[0000-0002-1512-0393](https://orcid.org/0000-0002-1512-0393)</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Angelika Fliegner</td>
+    <td>FH Münster</td>
+    <td>[0000-0002-5233-063X](https://orcid.org/0000-0002-5233-063X)</td>
+    <td>X</td>
+    <td>X</td>
+    <td> </td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Mareen Kahlisch</td>
+    <td>Hochschule Düsseldorf</td>
+    <td>[0009-0004-1175-0576](https://orcid.org/0009-0004-1175-0576)</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Philip Raatz</td>
+    <td>RWI - Leibniz-Institut für Wirtschaftsforschung</td>
+    <td>[0000-0002-9133-0077](https://orcid.org/0000-0002-9133-0077)</td>
+    <td>X</td>
+    <td>X</td>
+    <td> </td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Martin Reiter</td>
+    <td>Hochschule Rhein-Waal </td>
+    <td>[0000-0002-7217-7564](https://orcid.org/0000-0002-7217-7564)</td>
+    <td>X</td>
+    <td>X</td>
+    <td> </td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Katharina Sauther-Patrascu</td>
+    <td>TH Köln</td>
+    <td>[0000-0002-8629-661X](https://orcid.org/0000-0002-8629-661X)</td>
+    <td>X</td>
+    <td>X</td>
+    <td> </td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Elena Schick</td>
+    <td>TH Köln</td>
+    <td>[0000-0002-2621-4133](https://orcid.org/0000-0002-2621-4133)</td>
+    <td>X</td>
+    <td>X</td>
+    <td> </td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Benjamin Slowig</td>
+    <td>Christian-Albrechts-Universität zu Kiel, FDM-SH</td>
+    <td>[0000-0001-5343-2788](https://orcid.org/0000-0001-5343-2788)</td>
+    <td>X</td>
+    <td>X</td>
+    <td> </td>
+    <td></td>
+    <td>X</td>
+  </tr>
+</table>
+
 <br>
 <br>
 Inhalte dieser Seite auf [GitHub](https://github.com/FDMScouts-nrw/Wissensbasis). Weitere Beiträge sind herzlich willkommen.
