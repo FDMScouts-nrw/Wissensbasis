@@ -19,6 +19,7 @@ Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.ni
 
 | Name | Affiliation  | ORCID | Conzeptualization | Validation | Visualization | Writing - original draft | Writing - review & editing |
 | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+
 | Susanne Buch        | Hochschule Bonn Rhein-Sieg                        | [0000-0002-3149-0829](https://orcid.org/0000-0002-3149-0829) | X | X | X | X | X |
 | Oliver Claas        | Technische Hochschule OWL                         | [0000-0003-3008-720X](https://orcid.org/0000-0003-3008-720X) | X | X |   | X | X |
 | Eva Eilert          | Hochschule Düsseldorf                             | [0000-0002-1512-0393](https://orcid.org/0000-0002-1512-0393) | X | X | X | X | X |
