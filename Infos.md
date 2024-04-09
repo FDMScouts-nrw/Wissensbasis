@@ -1,6 +1,6 @@
 
 
-# Fragen? Antworten. FDM-FAQ - Die Wissensbasis der FDMScout*innen
+# Fragen? Antworten! FDM-FAQ - Die Wissensbasis der FDMScout*innen
 
 Know-how im Forschungsdatenmanagement (FDM) aufzubauen und zu erhalten, ist eine grundlegende, stetig an Bedeutung zunehmende Aufgabe an Hochschulen für angewandte Wissenschaften (HAW) (vgl. [Buch et al. 2023](http://www.doi.org/10.5281/zenodo.7886667)). Dieses Know-how kommt Mitarbeitenden der FDM-Servicestellen einer Hochschule ebenso zugute wie Forschenden selbst: Es versetzt FDM-Personal in die Lage, Forschende zielführend zu beraten, zu schulen und ihnen adäquate Tools und Services zu vermitteln; Forschenden werden konkrete Lösungswege für (neuartige) praktische Herausforderungen in Forschungsvorhaben aufgezeigt. Beide Gruppen werden weiterhin befähigt, hochschulinterne und -übergreifende Diskurse und Initiativen zum FDM mitzugestalten. Auf diese Weise trägt FDM-Know-how dazu bei, anforderungsgerechte und gewinnbringende Rahmenbedingungen für Forschung an HAW zu schaffen.
 <br>
@@ -21,8 +21,8 @@ Der Inhalt  dieser Wissensbasis steht unter einer [Creative Commons Namensnennun
 Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.niso.org/)
 
 | Name | Affiliation  | ORCID | Conzeptualization | Validation | Visualization | Writing - original draft | Writing - review & editing |
-
 | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+
 | Susanne Buch        | Hochschule Bonn Rhein-Sieg                        | [0000-0002-3149-0829](https://orcid.org/0000-0002-3149-0829) | X | X | X | X | X |
 | Oliver Claas        | Technische Hochschule OWL                         | [0000-0003-3008-720X](https://orcid.org/0000-0003-3008-720X) | X | X |   | X | X |
 | Eva Eilert          | Hochschule Düsseldorf                             | [0000-0002-1512-0393](https://orcid.org/0000-0002-1512-0393) | X | X | X | X | X |
