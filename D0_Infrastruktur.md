@@ -26,6 +26,9 @@
 
   Am besten ist es, wenn es eine FDM-Ansprechperson in jeder dieser Serviceeinheiten einer Hochschule gibt, die sich in ihrem Bereich zum FDM sehr gut auskennt. Nur so kann an der Hochschule umfassend und lückenlos beraten und agiert werden.
 
+</details>
+<br>
+
   <details markdown="block">
     <summary><b>Was sind die Aufgaben einer FDM-Kontaktstelle, bzw. einer FDM-Ansprechperson (z. B. FDMScout)?</b></summary>
 
