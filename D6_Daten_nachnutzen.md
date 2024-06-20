@@ -47,7 +47,7 @@ Darüber hinaus werden im Rahmen der NFDI-Konsortien und der [Sektion ELSA](http
 
 In der Präsentation von Peter Brettschneider beschreibt Folie 7 das Spannungsverhältnis zwischen "Pflichtwerk" und "Forschungsfreiheit". Eine vorherige vertragliche Regelung kann helfen; im Zweifel muss jeder Einzelfall rechtlich geprüft werden.
 <br>
-Quelle: Brettschneider, P. (2020). Wem "gehören" Forschungsdaten?. Zenodo. https://doi.org/10.5281/zenodo.3763031
+Quelle: Brettschneider, P. (2020). Wem "gehören" Forschungsdaten? Zenodo. <https://doi.org/10.5281/zenodo.3763031>
 
 </details>
 <br>
