@@ -31,7 +31,7 @@
 
 <details markdown="block">
   <summary><b>Was sind die Aufgaben einer FDM-Kontaktstelle, bzw. einer FDM-Ansprechperson (z. B. FDMScout)?</b></summary>
-
+  
 FDM-Personal – beteiligte Organisationseinheiten sind i.d.R. Forschungsförderung, Bibliothek, IT, Justiziariat und Datenschutz – muss ein ganzes Spektrum FDM-bezogener Anforderungen und Aufgaben innerhalb einzelner Hochschulen bedienen, wobei wiederum unterschieden wird zwischen (a) FDM-Dienstleistungen an der Hochschule, wie z.B. Beratungs- oder Schulungsangebot zu Datenmanagementplänen, und (b) Grundlegenden Aufgaben, die unabhängig vom Forschungsprozess geschehen müssen. Als Beispiele seien hier genannt die Begleitung der strategischen Hochschulentwicklung mit Blick auf FDM (hier liegt der Fokus der Tätigkeit auf der Hochschule selbst) und Bedarfserfassung (hier liegt der Fokus der Tätigkeit auf den Forschenden).
     <br>
     Eine Zusammenfassung und Visualisierung der Aufgaben finden Sie in der Grafik: [„Generalisierte FDM-Aufgaben an HAW sowie Erfahrungen in der hochschulübergreifenden Zusammenarbeit und Integration NRW- und bundesweiter Angebote: Die Perspektive der FDMScout:innen“](https://doi.org/10.5281/zenodo.7886667). Diese veranschaulicht die FDM-Aufgaben und Angebote innerhalb der einzelnen Hochschulen, im FDMScout.nrw-Netzwerk und auf Bundes- und Landesebene.
