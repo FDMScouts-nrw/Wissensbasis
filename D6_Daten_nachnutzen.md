@@ -12,7 +12,7 @@ Das Portal forschungsdaten.info beschreibt 3 Strategien, um Forschungsdaten zur 
 * Suche in repositorienübergreifenden Datenportalen und Index-Services
 * Suche in den ergänzenden Materialien von Publikationen
 <br>
-Weitere Infos auf den Seiten von [forschungsdaten.info](https://forschungsdaten.info/themen/finden-und-nachnutzen/forschungsdaten-finden/).
+Weitere Infos auf den Seiten von [forschungsdaten.info](<https://forschungsdaten.info/themen/finden-und-nachnutzen/forschungsdaten-finden/>).
 
 </details>
 <br>
@@ -21,6 +21,7 @@ Weitere Infos auf den Seiten von [forschungsdaten.info](https://forschungsdaten.
   <summary><b>Welche Lizenzen sollte ich vergeben bzw. kann/darf ich überhaupt eine Lizenz für meine Forschungsdaten vergeben?</b></summary>
 
 Lizenzen geben die Nachnutzungsmöglichkeiten der Forschungsdaten für Dritte an. Die [Creative-Commons-Lizenzen](https://creativecommons.org/) haben sich im Bereich des FDM weitestgehend durchgesetzt.
+<br>
 Vor der Vergabe einer Lizenz müssen die rechtlichen Voraussetzungen geprüft werden. Nicht in jedem Fall haben Sie die Urheberrechte an den Forschungsdaten, die Sie erhoben haben. Wenn Sie sich die Urheberschaft teilen, benötigen Sie von allen, die ebenfalls Urheberrechte an den Daten haben, die Zustimmung für die Lizenzierung. Eine Rechtsberatung kann hier elementar sein. 
 <br>
 Bei der Nachnutzung von Daten müssen bei der Vergabe einer Lizenz die Kompatibilitäten der verschiedenen CC-Lizenzen beachtet werden. Erläuterungen bieten 
@@ -47,7 +48,7 @@ Darüber hinaus werden im Rahmen der NFDI-Konsortien und der [Sektion ELSA (Sekt
   <summary><b>Darf ich meine Daten mitnehmen, wenn ich die Hochschule/Einrichtung wechsle?</b></summary>
 
 Diese Frage lässt sich nicht pauschal beantworten. Im Fall von wissenschaftlich Beschäftigten besteht laut Peter Brettschneider (2020, Folie 7) beispielsweise ein Spannungsverhältnis zwischen „Pflichtwerk“ und „Forschungsfreiheit“. Eine vorherige vertragliche Regelung kann helfen; im Zweifel muss jeder Einzelfall rechtlich geprüft werden.
-
+<br>
 Quelle: Brettschneider, P. (2020). Wem „gehören“ Forschungsdaten?. Zenodo. https://doi.org/10.5281/zenodo.3763031
 
 
