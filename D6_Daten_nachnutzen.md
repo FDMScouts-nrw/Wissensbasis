@@ -12,7 +12,7 @@ Das Portal forschungsdaten.info beschreibt 3 Strategien, um Forschungsdaten zur 
 * Suche in repositorienübergreifenden Datenportalen und Index-Services
 * Suche in den ergänzenden Materialien von Publikationen
 <br>
-Weitere Infos auf den Seiten von [forschungsdaten.info](<https://forschungsdaten.info/themen/finden-und-nachnutzen/forschungsdaten-finden/>).
+Weitere Infos auf den Seiten von [forschungsdaten.info](https://forschungsdaten.info/themen/finden-und-nachnutzen/forschungsdaten-finden/).
 
 </details>
 <br>
