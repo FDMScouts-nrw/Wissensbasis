@@ -49,7 +49,7 @@ Darüber hinaus werden im Rahmen der NFDI-Konsortien und der [Sektion ELSA (Sekt
 
 Diese Frage lässt sich nicht pauschal beantworten. Im Fall von wissenschaftlich Beschäftigten besteht laut Peter Brettschneider (2020, Folie 7) beispielsweise ein Spannungsverhältnis zwischen „Pflichtwerk“ und „Forschungsfreiheit“. Eine vorherige vertragliche Regelung kann helfen; im Zweifel muss jeder Einzelfall rechtlich geprüft werden.
 <br>
-Quelle: Brettschneider, P. (2020). Wem „gehören“ Forschungsdaten?. Zenodo. https://doi.org/10.5281/zenodo.3763031
+Quelle: Brettschneider, P. (2020). Wem „gehören“ Forschungsdaten?. Zenodo. <https://doi.org/10.5281/zenodo.3763031>
 
 
 </details>
