@@ -13,7 +13,6 @@ Forschungsdaten sind nie selbsterklärend, sondern stets kontextabhängig. Ihnen
 - Prozessmetadaten (z. B. Methodik, Arbeitsschritte),
 - deskriptiven Metadaten (z. B. Inhalt, Entstehung) und
 - administrativen Metadaten (z. B. Nutzungsbedingungen).
-<br>
 
 <br>
 Viele Arbeits- und Fachbereiche haben sich auf Metadatenstandards, d. h. einheitliche und genau bestimmte Zusammenstellungen von Elementen zur Beschreibung von Daten, geeinigt. Die Spanne reicht dabei von recht generischen bis hin zu ausgeklügelten fachspezifischen Standards. Sie stellen Metadaten im Idealfall maschinenlesbar, durchsuchbar und formalisiert bereit. Fachrepositorien greifen diese Normen häufig auf. Übersichten zu Metadatenstandards sind im [Metadata Standards Catalog](https://rdamsc.bath.ac.uk/) und bei [FAIRsharing.org](https://fairsharing.org/) zu finden.
