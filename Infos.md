@@ -12,7 +12,7 @@ FDM-Wissen aufzubauen und zu vermitteln bedeutet, diese und ähnliche Fragen zu 
 Insgesamt leistet die Wissensbasis einen Beitrag zur Dokumentation der Arbeit der FDMScouts.nrw-Verbünde und soll die nachhaltige Verankerung von FDM an HAW unterstützen.
 
 ## Zitationsvorschlag
-Buch, S., Claas, O., Eilert, E., Fliegner, A., Raatz, P., Reiter, M., Sauther-Patrascu, K., Schick, E., & Slowig, B. (2024). Fragen? Antworten. FDM-FAQ - Die Wissensbasis der FDMScout*innen. URL: https://fdmscouts-nrw.github.io/Wissensbasis/
+Buch, S., Claas, O., Eilert, E., Fliegner, A., Raatz, P., Reiter, M., Sauther-Patrascu, K., Schick, E., & Slowig, B. (2024). Fragen? Antworten. FDM-FAQ - Die Wissensbasis der FDMScout*innen. URL: https://fdmscouts-nrw.github.io/Wissensbasis/. DOI: https://zenodo.org/doi/10.5281/zenodo.12760388.
 
 ## Lizenzhinweis
 Der Inhalt  dieser Wissensbasis steht unter einer [Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) Lizenz.
