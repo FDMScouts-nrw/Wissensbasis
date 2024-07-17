@@ -114,7 +114,7 @@ Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.ni
   <tr>
     <td>Elena Schick</td>
     <td>TH Köln</td>
-    <td><a href="">0000-0002-2621-4133</a>(https://orcid.org/0000-0002-2621-4133)</td>
+    <td><a href="https://orcid.org/0000-0002-2621-4133">0000-0002-2621-4133</a></td>
     <td>X</td>
     <td>X</td>
     <td> </td>
@@ -124,7 +124,7 @@ Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.ni
   <tr>
     <td>Benjamin Slowig</td>
     <td>Christian-Albrechts-Universität zu Kiel, FDM-SH</td>
-    <td><a href="">0000-0001-5343-2788</a>(https://orcid.org/0000-0001-5343-2788)</td>
+    <td><a href="https://orcid.org/0000-0001-5343-2788">0000-0001-5343-2788</a></td>
     <td>X</td>
     <td>X</td>
     <td> </td>
