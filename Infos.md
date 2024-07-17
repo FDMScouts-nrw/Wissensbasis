@@ -74,7 +74,7 @@ Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.ni
   <tr>
     <td>Mareen Kahlisch</td>
     <td>Hochschule Düsseldorf</td>
-    <td><a href=https://orcid.org/0009-0004-1175-0576"">0009-0004-1175-0576</a></td>
+    <td><a href="https://orcid.org/0009-0004-1175-0576">0009-0004-1175-0576</a></td>
     <td> </td>
     <td> </td>
     <td> </td>
