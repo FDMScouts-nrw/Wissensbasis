@@ -15,7 +15,7 @@ Insgesamt leistet die Wissensbasis einen Beitrag zur Dokumentation der Arbeit de
 Buch, S., Claas, O., Eilert, E., Fliegner, A., Raatz, P., Reiter, M., Sauther-Patrascu, K., Schick, E., & Slowig, B. (2024). Fragen? Antworten. FDM-FAQ - Die Wissensbasis der FDMScout*innen. URL: https://fdmscouts-nrw.github.io/Wissensbasis/
 
 ## Lizenzhinweis
-Der Inhalt  dieser Wissensbasis steht unter einer [Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) Lizenz.
+Der Inhalt  dieser Wissensbasis steht unter einer [Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) Lizenz.
 
 ## Beitragende
 Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.niso.org/)
