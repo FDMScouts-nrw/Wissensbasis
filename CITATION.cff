@@ -1,0 +1,36 @@
+cff-version: 1.1.0
+message: "If you use this knowledge base, please cite it as below."
+authors:
+- family-names: Buch
+  given-names: Susanne
+  orcid: https://orcid.org/0000-0002-3149-0829
+- family-names: Claas
+  given-names: Oliver
+  orcid: https://orcid.org/0000-0003-3008-720X
+- family-names: Eilert
+  given-names: Eva
+  orcid: https://orcid.org/0000-0002-1512-03939
+- family-names: Fliegner
+  given-names: Angelika
+  orcid: https://orcid.org/0000-0002-5233-063X
+- family-names: Raatz
+  given-names: Philip
+  orcid: https://orcid.org/0000-0002-9133-0077
+- family-names: Reiter
+  given-names: Martin
+  orcid: https://orcid.org/0000-0002-7217-7564
+- family-names: Sauther-Patrascu
+  given-names: Katharina
+  orcid:https://orcid.org/0000-0002-8629-661X
+- family-names: Schick
+  given-names: Elena
+  orcid: https://orcid.org/0000-0002-2621-4133
+- family-names: Slowig
+  given-names: Benjamin
+  orcid: https://orcid.org/0000-0001-5343-2788
+title: "Fragen? Antworten. FDM-FAQ - Die Wissensbasis der FDMScout:innen"
+version: v1.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.12760389
+date-released: 2024-07-17
