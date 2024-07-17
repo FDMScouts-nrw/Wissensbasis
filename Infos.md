@@ -34,7 +34,7 @@ Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.ni
   <tr>
     <td>Susanne Buch</td>
     <td>Hochschule Bonn Rhein-Sieg</td>
-    <td>[0000-0002-3149-0829](https://orcid.org/0000-0002-3149-0829)</td>
+    <td><a href="https://orcid.org/0000-0002-3149-0829">0000-0002-3149-0829</a></td>
     <td>X</td>
     <td>X</td>
     <td>X</td>
@@ -44,7 +44,7 @@ Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.ni
   <tr>
     <td>Oliver Claas</td>
     <td>Technische Hochschule OWL </td>
-    <td>[0000-0003-3008-720X](https://orcid.org/0000-0003-3008-720X)</td>
+    <td><a href="https://orcid.org/0000-0003-3008-720X">0000-0003-3008-720X</a></td>
     <td>X</td>
     <td>X</td>
     <td> </td>
@@ -54,7 +54,7 @@ Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.ni
   <tr>
     <td>Eva Eilert</td>
     <td>Hochschule Düsseldorf </td>
-    <td>[0000-0002-1512-0393](https://orcid.org/0000-0002-1512-0393)</td>
+    <td><a href="https://orcid.org/0000-0002-1512-0393">0000-0002-1512-0393</a></td>
     <td>X</td>
     <td>X</td>
     <td>X</td>
@@ -64,7 +64,7 @@ Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.ni
   <tr>
     <td>Angelika Fliegner</td>
     <td>FH Münster</td>
-    <td>[0000-0002-5233-063X](https://orcid.org/0000-0002-5233-063X)</td>
+    <td><a href="https://orcid.org/0000-0002-5233-063X">0000-0002-5233-063X</a></td>
     <td>X</td>
     <td>X</td>
     <td> </td>
@@ -74,7 +74,7 @@ Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.ni
   <tr>
     <td>Mareen Kahlisch</td>
     <td>Hochschule Düsseldorf</td>
-    <td>[0009-0004-1175-0576](https://orcid.org/0009-0004-1175-0576)</td>
+    <td><a href=https://orcid.org/0009-0004-1175-0576"">0009-0004-1175-0576</a></td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -83,8 +83,8 @@ Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.ni
   </tr>
   <tr>
     <td>Philip Raatz</td>
-    <td>RWI - Leibniz-Institut für Wirtschaftsforschung</td>
-    <td>[0000-0002-9133-0077](https://orcid.org/0000-0002-9133-0077)</td>
+    <td>Hochschule Bochum</td>
+    <td><a href="https://orcid.org/0000-0002-9133-0077">0000-0002-9133-0077</a></td>
     <td>X</td>
     <td>X</td>
     <td> </td>
@@ -94,7 +94,7 @@ Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.ni
   <tr>
     <td>Martin Reiter</td>
     <td>Hochschule Rhein-Waal </td>
-    <td>[0000-0002-7217-7564](https://orcid.org/0000-0002-7217-7564)</td>
+    <td><a href="https://orcid.org/0000-0002-7217-7564">0000-0002-7217-7564</a></td>
     <td>X</td>
     <td>X</td>
     <td> </td>
@@ -104,7 +104,7 @@ Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.ni
   <tr>
     <td>Katharina Sauther-Patrascu</td>
     <td>TH Köln</td>
-    <td>[0000-0002-8629-661X](https://orcid.org/0000-0002-8629-661X)</td>
+    <td><a href="https://orcid.org/0000-0002-8629-661X">0000-0002-8629-661X</a></td>
     <td>X</td>
     <td>X</td>
     <td> </td>
@@ -114,7 +114,7 @@ Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.ni
   <tr>
     <td>Elena Schick</td>
     <td>TH Köln</td>
-    <td>[0000-0002-2621-4133](https://orcid.org/0000-0002-2621-4133)</td>
+    <td><a href="">0000-0002-2621-4133</a>(https://orcid.org/0000-0002-2621-4133)</td>
     <td>X</td>
     <td>X</td>
     <td> </td>
@@ -124,7 +124,7 @@ Contributor Roles nach [CRediT – Contributor Roles Taxonomy](https://credit.ni
   <tr>
     <td>Benjamin Slowig</td>
     <td>Christian-Albrechts-Universität zu Kiel, FDM-SH</td>
-    <td>[0000-0001-5343-2788](https://orcid.org/0000-0001-5343-2788)</td>
+    <td><a href="">0000-0001-5343-2788</a>(https://orcid.org/0000-0001-5343-2788)</td>
     <td>X</td>
     <td>X</td>
     <td> </td>
